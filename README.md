@@ -29,8 +29,12 @@ Each question is solved using basic JavaScript syntax with clear structure and c
 9. Determine if a worker is Full-time or Part-time.
 10. Return the larger of two numbers.
 
+✅ Note
+This project is done based on topics we've covered so far in class. Some keywords like return were intentionally not used where not yet taught.
+
 ## 📁 File Structure
 
+- `index.html` - contais html text.
 - `index.js` – contains all the solutions and test cases.
 - `README.md` – project overview and description.
 
